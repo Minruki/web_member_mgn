@@ -1,0 +1,6 @@
+@charset "UTF-8";
+ul { list-style:none; }
+li { margin:20px; display: inline-block;}
+li label { width:100px; float:left; }
+fieldset { margin:15px; }
+a { text-decoration: none; color: black}
